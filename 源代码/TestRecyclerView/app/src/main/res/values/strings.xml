@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">微信破解版</string>
+    <string name="hint">说点啥...</string>
+    <string name="send">发送</string>
+    <string name="titleBack">返回</string>
+    <string name="titleText">Cogode</string>
+    <string name="titleInfo">更多</string>
+</resources>
